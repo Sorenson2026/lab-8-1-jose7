@@ -1,5 +1,6 @@
 //Jose Ayestas 
 // 03/10/2026
+//ENGR 1405
 /*This program will read a sequence of integers inputed by the user with valid inputs from 1 through 10 and the value 0 is used to
 stop the input and the program will display the count, minimum, and maximum averages of the numbers entered*/
 
